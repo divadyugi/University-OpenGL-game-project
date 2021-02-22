@@ -1,0 +1,17 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl MP44
+Ns 180.000044
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump textures\\MP44_normal.tga
+map_Kd textures\\MP44_albedo.tga
+map_Ks textures\\MP44_metalness.tga
+map_Ns textures\\MP44_roughness.tga
+map_d textures\\MP44_albedo.tga
